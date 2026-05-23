@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Integer, String, ForeignKey
 from app.database.base import Base
 
-
+#prueba pull request
 class Municipio(Base):
     __tablename__ = "municipios"
 
