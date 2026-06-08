@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-
+#prueba de pipeline
 load_dotenv()
 
 class Settings:
